@@ -17,7 +17,7 @@ function applySiteConfig() {
   if (search && SITE.searchPlaceholder) search.placeholder = SITE.searchPlaceholder;
 }
 
-const TINTS = ["#d9f24f", "#bfe0ff", "#ffd0c4", "#cfe9d8", "#e0d6ff", "#ffe9a8"];
+const TINTS = ["#d7ead0", "#cfe3dc", "#e4eed6", "#d3e6e0", "#dfe8d2", "#e6eedf"]; // 카드 윗부분 색: 초록 계열
 
 const els = {
   grid: document.querySelector("#toolsGrid"),

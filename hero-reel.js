@@ -10,7 +10,7 @@
 
   const W = 500, H = 588, CX = 250, CY = 262, LOOP = 12, HALF = 230;
   const MONO = '"IBM Plex Mono", ui-monospace, monospace';
-  const INK = { main: "#15171a", accent: "#ff5a30", muted: "#6b6f74" };
+  const INK = { main: "#1b2a22", accent: "#2f7d5b", muted: "#5f6f66" };
 
   /* ---------- 이징 ---------- */
   const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x));
